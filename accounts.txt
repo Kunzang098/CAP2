@@ -1,0 +1,12 @@
+account holder: Kunzang Lhamo
+account number: 980221248
+account password: 6834
+account type: Personal
+balance: 0.0
+
+account holder: Kunzang Lhamo
+account number: 151930779
+account password: 3270
+account type: Personal
+balance: 0.0
+
